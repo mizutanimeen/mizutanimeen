@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<div align="left">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&layout=compact" />
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&show_icons=true" />
-</div>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&layout=compact" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&show_icons=true" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 

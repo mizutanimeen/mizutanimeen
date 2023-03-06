@@ -1,7 +1,8 @@
 ## Currently in production
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&hide=c%23,ShaderLab,glsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&hide=c%23,ShaderLab,glsl)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizutanimeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=4)](https://github.com/ryo-ma/github-profile-trophy)

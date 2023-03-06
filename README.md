@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={mizutanimeen}
-)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&theme=tokyonight&layout=compact" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&theme=tokyonight&show_icons=true" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **mizutanimeen/mizutanimeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

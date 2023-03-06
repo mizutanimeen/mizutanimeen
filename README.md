@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&theme=tokyonight&layout=compact" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&theme=tokyonight&show_icons=true" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&layout=compact" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&show_icons=true" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--

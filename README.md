@@ -1,10 +1,11 @@
 ## Currently in production
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&hide=c%23,ShaderLab,glsl)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left"> 
+  <img alt="github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&count_private=true&show_icons=true" />
+  <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&layout=compact&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23,shaderlab" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizutanimeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **mizutanimeen/mizutanimeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +23,5 @@ Here are some ideas to get you started:
 
 https://zenn.dev/yutakatay/articles/kirakira-github-profile
 -->
+
+

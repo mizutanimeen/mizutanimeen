@@ -27,7 +27,7 @@
 #
 
 <p align="center">
-  <img src="gif/repositories.gif" width="80%">
+  <img src="repositories.gif" width="80%">
 </p>
 
 <!--

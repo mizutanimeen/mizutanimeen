@@ -1,22 +1,36 @@
-## Currently in production
+# WELCOME TO MY PAGE!!!
 
+## 📈 Status
 <div align="left"> 
   <img alt="github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=mizutanimeen&count_private=true&show_icons=true" />
-  <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&layout=compact&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23,shaderlab" />
+  <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizutanimeen&layout=compact&hide=c%23,shaderlab,glsl" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+#
+
+## 😄About Me
+
+### I am an undergraduate student majoring in electrical and electronic engineering in Japan. 
+
+### Programming is my hobby.
+#
+
+## 🌱 My skills
+[![My Skills](https://skillicons.dev/icons?i=golang,python,html,css,docker,github)](https://skillicons.dev)
+#
 
 <p align="center">
   <img src="gif/repositories.gif" width="80%">
 </p>
+
 <!--
 **mizutanimeen/mizutanimeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

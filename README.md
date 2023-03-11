@@ -10,7 +10,7 @@
 
 <br>
 
-## 😄About Me
+## 😄About me
 
 ### I am an undergraduate student majoring in electrical and electronic engineering in Japan. 
 

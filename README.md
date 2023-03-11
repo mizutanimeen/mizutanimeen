@@ -7,18 +7,21 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-#
+
+<br>
 
 ## 😄About Me
 
 ### I am an undergraduate student majoring in electrical and electronic engineering in Japan. 
 
 ### Programming is my hobby.
-#
+
+<br>
 
 ## 🌱 My skills
 [![My Skills](https://skillicons.dev/icons?i=golang,python,html,css,docker,github)](https://skillicons.dev)
-#
+
+<br>
 
 <p align="center">
   <img src="gif/repositories.gif" width="80%">

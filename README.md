@@ -7,8 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mizutanimeen&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="gif/readme.gif" width="100%">
-
+<div style="text-align:center;">
+  <img src="gif/repositories.gif" width="80%">
+</div>
 <!--
 **mizutanimeen/mizutanimeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
